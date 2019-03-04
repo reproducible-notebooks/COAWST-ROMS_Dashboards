@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - xarray
+  - bokeh/label/dev::bokeh  
+  - pyviz/label/dev::datashader
+  - pyviz/label/dev::holoviews  
+  - pyviz/label/dev::geoviews
+  - pyviz/label/dev::hvplot  
+  - pyviz/label/dev::panel
