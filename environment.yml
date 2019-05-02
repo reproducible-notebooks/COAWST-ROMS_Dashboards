@@ -7,9 +7,9 @@ dependencies:
   - netcdf4
   - intake
   - intake-xarray
-  - pyviz::bokeh  
-  - pyviz::datashader
-  - pyviz::holoviews  
-  - pyviz::geoviews
-  - pyviz::hvplot  
-  - pyviz::panel
+  - bokeh  
+  - datashader
+  - holoviews  
+  - geoviews
+  - hvplot  
+  - panel
