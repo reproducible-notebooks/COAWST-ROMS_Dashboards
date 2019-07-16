@@ -1,6 +1,6 @@
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - cartopy
   - xarray
@@ -9,7 +9,7 @@ dependencies:
   - intake-xarray
   - bokeh  
   - datashader
-  - holoviews  
+  - holoviews=1.12.1 
   - geoviews
   - hvplot  
   - panel
