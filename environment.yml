@@ -1,16 +1,17 @@
 channels:
   - conda-forge
 dependencies:
-  - cartopy
+  - python=3.8
   - xarray
   - netcdf4
   - intake
   - intake-xarray
-  - bokeh  
   - datashader
-  - holoviews
   - geoviews
   - hvplot  
   - panel
   - fsspec
   - s3fs
+  - cf-time
+  - pyproj
+  - zarr
