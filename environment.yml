@@ -12,6 +12,6 @@ dependencies:
   - panel
   - fsspec
   - s3fs
-  - cf-time
+  - cftime
   - pyproj
   - zarr
